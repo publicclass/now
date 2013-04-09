@@ -15,6 +15,17 @@
     "now",
     "date"
   ],
+  "testling": {
+    "files": "test.js",
+    "browsers": {
+      "ie": [ 6, 7, 8, 9, 10 ],
+      "firefox": [ 13 ],
+      "chrome": [ 20 ],
+      "safari": [ 5.1 ],
+      "opera": [ 12 ],
+      "iphone": [ 6 ]
+    }
+  },
   "author": "Robert Sköld <robert@publicclass.se>",
   "license": "MIT"
 }
