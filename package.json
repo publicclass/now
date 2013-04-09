@@ -1,0 +1,20 @@
+{
+  "name": "now",
+  "version": "0.0.1",
+  "description": "performance.now() with fallback",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/publicclass/now.git"
+  },
+  "keywords": [
+    "performance",
+    "now",
+    "date"
+  ],
+  "author": "Robert Sköld <robert@publicclass.se>",
+  "license": "MIT"
+}
